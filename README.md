@@ -1,4 +1,4 @@
-# Personal Expenses_Tracker
+# Personal Expenses Tracker
 
 Tracks Personal Expenses
 
